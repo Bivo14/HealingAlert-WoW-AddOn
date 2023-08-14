@@ -1,0 +1,7 @@
+## Interface: 100105
+## Title: HealingAlert
+## Notes: Alerts the user when the player's HP and/or the Healer's drops below a certain threshold
+## Author: Kraelarin
+## Version: 0.0.1
+
+HealingAlert.lua
